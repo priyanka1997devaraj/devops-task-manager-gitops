@@ -1,6 +1,6 @@
 image:
   repository: ghcr.io/priyanka1997devaraj/devops-task-manager
-  tag: "latest"
+  tag: "578c6d11712a06d8ba68cb13940f56a4108bff2e"
   pullPolicy: Always
 
 replicaCount: 2
